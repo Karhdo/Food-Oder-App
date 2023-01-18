@@ -1,4 +1,4 @@
-<h1 align='center'>Practie ReactJS - Food Oder App</h1>
+<h1 align='center'>Learn ReactJS - Food Oder App</h1>
 
 ### Hướng dẫn sử dụng
 #### Clone git repository
